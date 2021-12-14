@@ -1,44 +1,42 @@
 [Adblock Plus 2.0]
 ! Title: google検索フィルター
 
+
 ! appmedia.jp
 www.google.com,www.google.co.jp###search .g:has(a[href*="://appmedia.jp/"])
-www.google.com,www.google.co.jp###search .g:has(.r>cite:has-text(://appmedia.jp))
-! appmedia.jp
-www.google.com,www.google.co.jp###search .g:has(.r>a[href*="://appmedia.jp"])
-www.google.com,www.google.co.jp###search .g:has(.r>cite:has-text(://appmedia.jp))
+www.google.com,www.google.co.jp###search .g:has(cite:has-text(://appmedia.jp))
 
 
 ! altema.jp
-www.google.com,www.google.co.jp###search .g:has(.r>a[href*="://altema.jp"])
-www.google.com,www.google.co.jp###search .g:has(.r>cite:has-text(://altema.jp))
+www.google.com,www.google.co.jp###search .g:has(a[href*="://altema.jp/"])
+www.google.com,www.google.co.jp###search .g:has(cite:has-text(://altema.jp))
 
 
 ! game-ranking.gamy.jp
-www.google.com,www.google.co.jp###search .g:has(.r>a[href*="://game-ranking.gamy.jp"])
-www.google.com,www.google.co.jp###search .g:has(.r>cite:has-text(://game-ranking.gamy.jp))
+www.google.com,www.google.co.jp###search .g:has(a[href*="://game-ranking.gamy.jp/"])
+www.google.com,www.google.co.jp###search .g:has(cite:has-text(://game-ranking.gamy.jp))
 
 
 ! kamigame.jp
-www.google.com,www.google.co.jp###search .g:has(.r>a[href*="://kamigame.jp"])
-www.google.com,www.google.co.jp###search .g:has(.r>cite:has-text(://kamigame.jp))
+www.google.com,www.google.co.jp###search .g:has(a[href*="://kamigame.jp/"])
+www.google.com,www.google.co.jp###search .g:has(cite:has-text(://kamigame.jp))
 
 
 ! gamerch.com
-www.google.com,www.google.co.jp###search .g:has(.r>a[href*="://gamerch.com"])
-www.google.com,www.google.co.jp###search .g:has(.r>cite:has-text(://gamerch.com))
+www.google.com,www.google.co.jp###search .g:has(a[href*="://gamerch.com/"])
+www.google.com,www.google.co.jp###search .g:has(cite:has-text(://gamerch.com))
 
 
 ! game8.jp
-www.google.com,www.google.co.jp###search .g:has(.r>a[href*="://game8.jp"])
-www.google.com,www.google.co.jp###search .g:has(.r>cite:has-text(://game8.jp))
+www.google.com,www.google.co.jp###search .g:has(a[href*="://game8.jp/"])
+www.google.com,www.google.co.jp###search .g:has(cite:has-text(://game8.jp))
 
 
 ! www.inside-games.jp
-www.google.com,www.google.co.jp###search .g:has(.r>a[href*="://www.inside-games.jp"])
-www.google.com,www.google.co.jp###search .g:has(.r>cite:has-text(://www.inside-games.jp))
+www.google.com,www.google.co.jp###search .g:has(a[href*="://www.inside-games.jp/"])
+www.google.com,www.google.co.jp###search .g:has(cite:has-text(://www.inside-games.jp))
 
 
 ! www.famitsu.com
-www.google.com,www.google.co.jp###search .g:has(.r>a[href*="://www.famitsu.com"])
-www.google.com,www.google.co.jp###search .g:has(.r>cite:has-text(://www.famitsu.com))
+www.google.com,www.google.co.jp###search .g:has(a[href*="://www.famitsu.com/"])
+www.google.com,www.google.co.jp###search .g:has(cite:has-text(://www.famitsu.com))
