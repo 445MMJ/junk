@@ -1,0 +1,26 @@
+[Adblock Plus 2.0]
+! Title: google検索フィルター
+
+! appmedia.jp
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://appmedia.jp"])
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://appmedia.jp))
+
+! altema.jp
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://altema.jp"])
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://altema.jp))
+
+! game-ranking.gamy.jp
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://game-ranking.gamy.jp"])
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://game-ranking.gamy.jp"))
+
+! kamigame.jp
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://kamigame.jp"])
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://kamigame.jp"))
+
+! gamerch.com
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://gamerch.com"])
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://gamerch.com"))
+
+! game8.jp
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://game8.jp"])
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://game8.jp"))
