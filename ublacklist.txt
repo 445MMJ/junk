@@ -40,3 +40,8 @@ www.google.com,www.google.co.jp###search .g:has(cite:has-text(://www.inside-game
 ! www.famitsu.com
 www.google.com,www.google.co.jp###search .g:has(a[href*="://www.famitsu.com/"])
 www.google.com,www.google.co.jp###search .g:has(cite:has-text(://www.famitsu.com))
+
+
+! dengekionline.com
+www.google.com,www.google.co.jp###search .g:has(a[href*="://dengekionline.com/"])
+www.google.com,www.google.co.jp###search .g:has(cite:has-text(://dengekionline.com))
