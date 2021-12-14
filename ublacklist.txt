@@ -11,16 +11,20 @@ www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://altema.jp))
 
 ! game-ranking.gamy.jp
 www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://game-ranking.gamy.jp"])
-www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://game-ranking.gamy.jp"))
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://game-ranking.gamy.jp))
 
 ! kamigame.jp
 www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://kamigame.jp"])
-www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://kamigame.jp"))
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://kamigame.jp))
 
 ! gamerch.com
 www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://gamerch.com"])
-www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://gamerch.com"))
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://gamerch.com))
 
 ! game8.jp
 www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://game8.jp"])
-www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://game8.jp"))
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://game8.jp))
+
+! dengekionline.com
+www.google.com,www.google.co.jp##div.g:has(.r>a[href*="://dengekionline.com"])
+www.google.com,www.google.co.jp##div.g:has(.r>cite:has-text(://dengekionline.com))
