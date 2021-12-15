@@ -5,6 +5,8 @@
 ! appmedia.jp
 www.google.com,www.google.co.jp###search .g:has(a[href*="://appmedia.jp/"])
 www.google.com,www.google.co.jp###search .g:has(cite:has-text(://appmedia.jp))
+www.google.com,www.google.co.jp###search .g:has(a[href*="://twitter.com/appmediafgo/"])
+www.google.com,www.google.co.jp###search .g:has(cite:has-text(://twitter.com/appmediafgo))
 
 
 ! altema.jp
