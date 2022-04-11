@@ -6,9 +6,7 @@ www.google.com,www.google.co.jp###search .g:has(a[href*="://appmedia.jp/"])
 www.google.com,www.google.co.jp###search .g:has(cite:has-text(://appmedia.jp))
 www.google.com,www.google.co.jp###search .g:has(a[href*="://twitter.com/appmediafgo/"])
 www.google.com,www.google.co.jp###search .g:has(cite:has-text(://twitter.com/appmediafgo))
-www.google.com,www.google.co.jp###search .g:has(a[href*="://www.youtube.com/channel/UCSU6Ye0mZqIxErp5OFu8qbQ/"])
-www.google.com,www.google.co.jp###search .g:has(cite:has-text(://www.youtube.com/channel/UCSU6Ye0mZqIxErp5OFu8qbQ))
-
+www.google.com,www.google.co.jp###search .mnr-c:has(a[href*="://www.youtube.com/channel/UCSU6Ye0mZqIxErp5OFu8qbQ"])
 
 ! altema.jp
 www.google.com,www.google.co.jp###search .g:has(a[href*="://altema.jp/"])
